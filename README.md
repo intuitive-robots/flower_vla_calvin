@@ -1,6 +1,6 @@
 # FlowerVLA
 
-[Paper](https://www.arxiv.org/pdf/2509.04996), [Project Page](https://intuitive-robots.github.io/flower_vla/), [Pretraining Code](https://github.com/intuitive-robots/flower_vla)
+[Paper](https://www.arxiv.org/pdf/2509.04996), [Project Page](https://intuitive-robots.github.io/flower_vla/), [Pretraining Code](https://github.com/intuitive-robots/flower_vla_pret)
 
 [Moritz Reuss](https://mbreuss.github.io/)<sup>1</sup>,
 [Hongyi Zhou](https://hongyizhoucn.github.io/)<sup>1</sup>,
